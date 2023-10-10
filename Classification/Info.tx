@@ -1,0 +1,2 @@
+Binary classification:      from sklearn.datasets import make_circles
+Multiclass Classification:  from tensorflow.keras.datasets import fashion_mnist
