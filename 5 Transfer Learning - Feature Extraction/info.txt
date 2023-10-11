@@ -1,1 +1,2 @@
-
+Transfer learning.
+Building 10 classes classifier using ResNetV2 and EfficientNet
