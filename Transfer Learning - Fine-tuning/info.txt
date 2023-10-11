@@ -1,1 +1,2 @@
-
+Transfer learning.
+Building 10 classes classifier using EfficientNet but fine-tune 10 layers
