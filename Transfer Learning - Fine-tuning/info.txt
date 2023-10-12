@@ -1,2 +1,2 @@
 Transfer learning.
-Building 10 classes classifier using EfficientNet but fine-tune 10 layers
+Building 10 classes classifier from 10% of "food101" dataset using EfficientNet but fine-tune 10 layers
