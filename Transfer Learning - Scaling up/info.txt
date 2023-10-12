@@ -1,1 +1,1 @@
-
+Transfer learning, using all 'food101' dataset and fine tune 5 layers, also predict image that are not in the initial dataset.
