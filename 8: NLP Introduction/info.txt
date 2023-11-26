@@ -1,1 +1,16 @@
+Real or Not dataset from kaggle: the tweet is positive or negative.
+Sentiment analysis on dataset from X(Twitter).
 
+Using model from scratch:
+-tf-idf
+-dense
+-lstm
+-gru
+-bidirectional lstm
+-conv1d
+
+Pre-trained from Tensorflow Hub
+-universal sentence encoder 4
+
+Ensamble
+- tf-idf + lstm + universal sentence encoder
